@@ -18,7 +18,7 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupID>com.maven</groupID>
+				<groupId>com.maven</groupId>
 				<artifactId>maven-tutorial</artifactId>
 				<version>1.0</version>
 				<configuration>
